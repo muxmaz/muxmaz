@@ -1,3 +1,4 @@
+![banner](./assets/banner.png)
 # Hi, I’m Musa Aziz 👋
 
 I’m a UK-based **Data Engineer** and **product builder** focused on turning ideas into real, usable software — especially products that work reliably in **emerging/third-world markets** where constraints (connectivity, payments, language, devices) matter.
