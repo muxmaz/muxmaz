@@ -1,39 +1,21 @@
-![banner](./assets/banner.png)
-# Hi, I’m Musa Aziz 👋
+## welcome to Musa’s github 👋
 
-I’m a UK-based **Data Engineer** and **product builder** focused on turning ideas into real, usable software — especially products that work reliably in **emerging/third-world markets** where constraints (connectivity, payments, language, devices) matter.
+I’m **Musa Aziz**, a **Data Engineer** at the **National Theatre (London)** — building data architecture from scratch using **Microsoft Fabric**.
 
----
+### experience
+- **National Theatre** — Microsoft Fabric, Azure, data architecture, end-to-end pipelines  
+- **Kubrick Group** (Client: **Ageas – Insurance**) — Matillion, Snowflake, SQL Server, Flyway  
+- **Kubrick Group** (Client: **Wesleyan – Financial Services**) — Azure Data Factory, Synapse, SQL Server  
 
-## 🚀 What I’m working on
-- **MotoBazaar** — a vehicle marketplace platform (private sellers + dealerships), built with a focus on real-world usability and multilingual support.
-- Building repeatable **data engineering patterns**: ingestion, transformations, validation, and documentation.
+### certifications
+- Snowflake fundamentals + certifications  
+- Currently working toward **SnowPro Core**
 
----
+### projects
+- **MotoBazaar** — vehicle marketplace for Afghanistan, connecting buyers and sellers with trust and ease
 
-## 🧠 What I care about
-- **Practical engineering** over hype (shipping > theory)
-- **Simple UX** that works on low-end devices and inconsistent internet
-- **Localization & accessibility** (language support, culturally-aware design)
-- Products that can scale from “small city” to “nationwide”
+### mission
+I’m passionate about building and adapting proven products so they work in **third-world / emerging markets** — simple UX, low friction, real impact.
 
----
-
-## 🧰 Tech I use
-- **Languages:** Python, SQL  
-- **Data:** Azure / Microsoft Fabric, Snowflake, Databricks, ADF, Power BI  
-- **Product/Backend:** Supabase, Postgres  
-- **Other:** Git, CI/CD, testing & validation workflows
-
----
-
-## 📌 Featured projects
-- **MotoBazaar** — vehicle marketplace for Afghanistan, bringing buyers and sellers together to trade with ease and trust.
-  *(Add repo link + screenshot once public)*
-
----
-
-## 🤝 Connect
+### links
 - Instagram: https://www.instagram.com/muxmaz/
-- GitHub: https://github.com/muxmaz
-
