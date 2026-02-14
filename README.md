@@ -1,4 +1,5 @@
-## welcome to Musa’s github 👋
+<img width="306" height="400" alt="170831-fallouthacking" src="https://github.com/user-attachments/assets/c784ae7f-133b-4ece-ab00-0453e32ea2c3" />
+## Welcome to Musa’s github 👋
 
 I’m **Musa Aziz**, a **Data Engineer** at the **National Theatre (London)** — building data architecture from scratch using **Microsoft Fabric**.
 
