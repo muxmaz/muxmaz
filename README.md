@@ -3,8 +3,7 @@
   <h3 style="margin:0;">Welcome to Musa’s GitHub 👋</h3>
 </div>
 
-Hoolaaa, I am **Musa Aziz**, a **Data Engineer** at the **National Theatre (London)** — building data architecture from scratch using **Microsoft Fabric**.
-
+Hollaa, I am **Musa Aziz**, a **Data Engineer** at the **National Theatre (London)** — building data architecture from scratch using **Microsoft Fabric**. Always happy to connect with like minded people so dont be shy, lets talk :)
 ### Experience
 - **National Theatre** — Microsoft Fabric, Azure, data architecture, end-to-end pipelines  
 - **Kubrick Group** (Client: **Ageas – Insurance**) — Matillion, Snowflake, SQL Server, Flyway  
